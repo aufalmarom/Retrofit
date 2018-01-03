@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Belajar Retrofit</string>
+    <string name="txt_hint_make">Merk</string>
+    <string name="txt_hint_year">Masukan tahun</string>
+    <string name="txt_hint_model">Model</string>
+    <string name="txt_logout">Logout</string>
+    <string name="save">save</string>
+</resources>

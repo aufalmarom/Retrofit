@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BelajarRetrofit.iml" filepath="$PROJECT_DIR$/BelajarRetrofit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BelajarRetrofit/BelajarRetrofit-BelajarRetrofit.iml" filepath="$PROJECT_DIR$/BelajarRetrofit/BelajarRetrofit-BelajarRetrofit.iml" />
+    </modules>
+  </component>
+</project>
